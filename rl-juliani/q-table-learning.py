@@ -1,4 +1,3 @@
-
 import gym
 import numpy as np
 
@@ -40,4 +39,3 @@ print(str(sum(rList)/num_episodes))
 
 print("Final Q-Table Values")
 print(Q)
-
