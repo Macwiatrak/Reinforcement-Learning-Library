@@ -5,3 +5,4 @@ Library on various reinforcement learning algorithms, tutorials and implementati
 Dependencies used:
 - numpy
 - gym (openai)
+- tensorflow
